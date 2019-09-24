@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Q Location</string>
+
+    <string name="default_channel">Default channel</string>
+    <string name="unknown_location">Unknown location</string>
+
+    <plurals name="num_locations_reported">
+        <item quantity="zero">No location reported</item>
+        <item quantity="one">One location reported</item>
+        <item quantity="other">%d locations reported</item>
+    </plurals>
+</resources>
