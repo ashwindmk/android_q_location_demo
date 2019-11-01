@@ -42,6 +42,21 @@
             android:text="BACKGROUND"
             android:layout_marginTop="20dp" />
 
+        <!-- Update location now -->
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Update location now"
+            android:layout_marginTop="40dp"/>
+
+        <Button
+            android:id="@+id/update_now_button"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="UPDATE NOW"
+            android:layout_marginTop="20dp" />
+
+
         <!-- Start updates -->
         <TextView
             android:layout_width="300dp"
